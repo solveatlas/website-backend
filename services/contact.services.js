@@ -12,7 +12,7 @@ const SendingContactMail = async (data) => {
             html: `
             <div style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; max-width: 600px; margin: 0 auto; padding: 20px; color: #333; border: 1px solid #eee; border-radius: 10px;">
                 <div style="text-align: center; margin-bottom: 30px;">
-                    <h1 style="color: #000; margin: 0; font-size: 28px;">Solve<span style="color: #2563eb;">Atlas</span></h1>
+                    <h1 style="color: #000; margin: 0; font-size: 28px;">Solve Atlas</h1>
                     <p style="color: #666; font-size: 14px; margin-top: 5px;">Crafting Digital Experiences</p>
                 </div>
 
@@ -27,7 +27,7 @@ const SendingContactMail = async (data) => {
                     
                     <div style="margin-top: 30px; padding-top: 20px; border-top: 1px solid #e5e7eb;">
                         <p style="font-size: 14px; color: #6b7280; margin-bottom: 5px;">Need immediate assistance?</p>
-                        <a href="https://wa.me/982619796" style="display: inline-block; padding: 10px 20px; background-color: #2563eb; color: #ffffff; text-decoration: none; border-radius: 5px; font-weight: bold;">Chat with us on WhatsApp</a>
+                        <a href="https://wa.me/9826197196" style="display: inline-block; padding: 10px 20px; background-color: #25D366; color: #ffffff; text-decoration: none; border-radius: 5px; font-weight: bold;">Chat with us on WhatsApp</a>
                     </div>
                 </div>
 
